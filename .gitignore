@@ -1,0 +1,8 @@
+/node_modules
+*.lock
+/.next
+/build
+/dist
+yarn-error.log
+/out
+/.firebase
